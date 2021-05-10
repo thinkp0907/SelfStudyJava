@@ -25,7 +25,7 @@ public class OperationsPromotionsExample {
 		// int intValue6 = 10 / 4.0		컴파일 에러
 		double doubleValue = intValue5 / 4.0;
 		System.out.println(doubleValue);
-		
+		c
 		int x = 1;
 		int y = 2;
 		double result = (double) x / y;
